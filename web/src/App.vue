@@ -2,7 +2,7 @@
   #app
     #nav
       router-link(to="/") Home
-      router-ling(to="/about") About
+      router-link(to="/about") About
     router-view
 </template>
 <style lang="stylus">

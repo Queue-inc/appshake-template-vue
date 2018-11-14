@@ -5,9 +5,6 @@
 
 <script>
 export default {
-  name: 'home',
-  components: {
-    HelloWorld
-  }
+  name: 'home'
 }
 </script>
