@@ -1,0 +1,4 @@
+!/web/src/packages/**
+!/admin/src/packages/**
+/web/
+/admin/
